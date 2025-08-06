@@ -1,0 +1,28 @@
+.logo{
+    image-orientation: 45deg;
+    width: autp;
+    height: 400px;
+    box-shadow: #f0f;
+
+}
+.containter{
+    width: 90%;
+    height: 400px;
+    background-color: rgb(11, 121, 66);
+    margin: auto;
+    margin-top: 100px;
+    position: relative
+
+}
+.row{
+    width: 60%;
+    height: 300px;
+    float: left;
+    background-color: #8b3d3d;
+    position: relative;
+}
+.logo:hover{
+    transform: scale(1.5);
+    margin-left: 50%;
+    box-shadow: 10px 10px 10px #000000;
+}
